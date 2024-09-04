@@ -160,7 +160,7 @@ export default function Start() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div className="bg-blue-800/30 rounded-lg p-6 shadow-lg">
                 <h3 className="text-2xl font-semibold mb-4 text-red-400">Personalized Support</h3>
-                <p className="text-lg">We recognize that each student's journey is unique. Our dedicated team of educators and mentors is committed to providing individualized support that addresses specific academic challenges and goals.</p>
+                <p className="text-lg">We recognize that each students journey is unique. Our dedicated team of educators and mentors is committed to providing individualized support that addresses specific academic challenges and goals.</p>
               </div>
               <div className="bg-blue-800/30 rounded-lg p-6 shadow-lg">
                 <h3 className="text-2xl font-semibold mb-4 text-red-400">Innovative Resources</h3>
